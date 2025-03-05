@@ -3,7 +3,7 @@ entries:
   test-chart1:
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2025-03-05T09:58:07.693214489+11:00"
+    created: "2025-03-05T13:07:30.329633534+11:00"
     description: A Helm chart for Kubernetes
     digest: 851486f5a3e175ed96212add6222c721f4bf4188e4f523677a75505ff56b465f
     name: test-chart1
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-05T09:58:07.692897958+11:00"
+    created: "2025-03-05T13:07:30.329354457+11:00"
     description: A Helm chart for Kubernetes
     digest: f4cd62380a1ed30af1c948f6b30e65e5afb44fc9ba8af538394b95432e05feed
     name: test-chart1
@@ -24,7 +24,7 @@ entries:
   test-chart2:
   - apiVersion: v2
     appVersion: 1.18.0
-    created: "2025-03-05T09:58:07.694448933+11:00"
+    created: "2025-03-05T13:07:30.330835556+11:00"
     description: A Helm chart for Kubernetes
     digest: 3a778d94524308c74988d7970638debae5c03fa5c2801e9e9b0b3e7aa233c132
     name: test-chart2
@@ -34,7 +34,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2025-03-05T09:58:07.69414741+11:00"
+    created: "2025-03-05T13:07:30.330533597+11:00"
     description: A Helm chart for Kubernetes
     digest: 53ddb1812779cc530e1574ab0648bad17279c8625ca23bc6887081164725e049
     name: test-chart2
@@ -44,7 +44,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2025-03-05T09:58:07.693866054+11:00"
+    created: "2025-03-05T13:07:30.330220219+11:00"
     description: A Helm chart for Kubernetes
     digest: 1c172756428a0d2ae8ebc82025ff0cb45ad6434c8dcfd85e074de394ff0952c9
     name: test-chart2
@@ -54,7 +54,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2025-03-05T09:58:07.693549353+11:00"
+    created: "2025-03-05T13:07:30.32992792+11:00"
     description: A Helm chart for Kubernetes
     digest: 3c9a74a2b7d84c87e0f34e516f42cc98bbf40021c25f1ce4afb8437ef9baaade
     name: test-chart2
@@ -62,4 +62,4 @@ entries:
     urls:
     - test-chart2-0.2.0.tgz
     version: 0.2.0
-generated: "2025-03-05T09:58:07.692408452+11:00"
+generated: "2025-03-05T13:07:30.328890529+11:00"
